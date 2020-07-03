@@ -4,7 +4,7 @@ require('dotenv').config({
 
 let URL;
 if (process.env.NODE_ENV === 'production') {
-  URL = 'https://cocky-beaver-7d838f.netlify.app';
+  URL = 'https://cocky-beaver-7d838f.netlify.app/';
 } else {
   URL = 'http://localhost:8000';
 }
