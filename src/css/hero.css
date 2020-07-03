@@ -38,7 +38,7 @@
 
 @media only screen and (max-width: 768px) {
     .hero-text {
-        transform: translateY(200%);
+        transform: translateY(201%);
     }
 }
 
